@@ -7,6 +7,7 @@ test repository
 * AAA
 * BBB
 * CCC
+* DDD 
 * EEE
 
 ## ファイル構成

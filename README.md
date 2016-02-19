@@ -14,3 +14,7 @@ test repository
 
 ## リリース方法
 test
+
+- [ ] TODO1
+- [x] TODO2
+    - [ ] TODO2.1
